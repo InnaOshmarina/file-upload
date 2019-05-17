@@ -29,7 +29,7 @@
   },
 
   "rules": {
-    "no-console": 2,
+    "no-console": 1,
     "jsx-quotes":  [
       1,
       "prefer-double"
